@@ -1,0 +1,8 @@
+**/bin/
+**/build/
+**/Makefile
+**/.aml*
+**/.vscode
+**/*.exe
+**/CMakeFiles
+**/CMakeCache.txt
