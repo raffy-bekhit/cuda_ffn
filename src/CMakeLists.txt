@@ -1,2 +1,2 @@
 include_directories(../lib/helper) 
-add_executable(ffn.exe ffn.cu)
+add_executable(fc.exe fc.cu)
